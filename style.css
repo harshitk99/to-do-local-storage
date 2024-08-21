@@ -15,8 +15,10 @@ html, body {
 }
 
 h1 {
-    text-align: center;
-    font-size: 2.5em;
+    /* text-align: ; */
+    font-size: 2.4em;
+    position: absolute;
+    top: 5%;
     color: #333;
     margin-bottom: 20px;
 }
